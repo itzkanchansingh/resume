@@ -1,0 +1,18 @@
+
+.box{
+    height: 800px;
+    width: 700px;
+    margin: 0px auto;
+    font-family: "Gill Sans Extrabold", sans-serif;
+}
+.icon{
+    color: rgb(65, 126, 147);
+    text-decoration: none;
+}
+.head{
+    font-size: 17px;
+    color:rgb(68, 68, 193);
+}
+.para{
+    font-size: 14px;
+}
